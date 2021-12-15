@@ -1,4 +1,4 @@
-import FeedbackList from "./FeedbackList"
+
 import {useContext} from 'react'
 import FeedbackContext from '../context/FeedbackContex'
 function FeedbackStats() {
